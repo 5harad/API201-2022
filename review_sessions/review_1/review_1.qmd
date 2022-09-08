@@ -1,0 +1,85 @@
+---
+title: "API201 Review Session 1"
+author: "Ben Berger"
+format: 
+  revealjs:
+    transition: fade
+    theme: [serif, assets/custom.scss]
+editor: visual
+---
+
+## Introduction
+
+::: columns
+::: {.column width="50%"}
+### Ben Berger
+
+-   Public Policy Ph.D. G5
+
+-   Hometown: Harrisburg, PA
+
+-   Research Interests: Health care, innovation, orphan drugs, regulation
+
+-   Teaching experience: 2 sem. API202Z; R experience: 8 years
+
+-   Hobbies: **Spending time with my puppy!** And if I still had a life outside of my puppy: photography, birding, board games, guitar, eating spicy food
+:::
+
+::: {.column width="50%"}
+![](assets/portrait.jpg){fig-align="center" width="80%"}
+:::
+:::
+
+------------------------------------------------------------------------
+<center>
+::: columns
+::: {.column width="50%"}
+![](assets/IMG_8394.png){fig-align="center"}
+:::
+::: {.column width="30%"}
+← Ben and Ringo
+:::
+:::
+</center>
+
+## Outline
+
+-   Fridays 12:00 PM -- 1:15 PM.
+
+-   Goals:
+
+    -   Review and expand on key concepts
+
+    -   Prepare for homeworks using practice problems
+
+    -   Develop R skills.
+
+-   40 min concepts and practice probs & 35 min on R.
+
+## Expectations (for me)
+
+-   I will do my best to make API201 interesting and informative.
+
+    -   Review session is an opportunity to engage with your interests.
+
+-   You can come to me with any questions you have about the course material, statistical methods, research more broadly, or graduate student life.
+
+    -   Best times are before/after class and during office hours, but also feel free to message me on Slack with any questions/comments/concerns.
+
+    -   I make myself as available as possible to answer questions (because I like helping out students!) but responses may be delayed if I'm busy with research or if you're messaging me after business hours.
+
+## Expectations (for me)
+
+-   I don't grade the homework and can't comment on why you got a particular grade, but would be happy to help you work through any confusion with the material.
+
+-   I will post review session materials in advance, but I encourage you to follow along with the lecture and write your own code for R exercises.
+
+## Expectations (for you)
+
+-   Show up on time.
+
+-   Engage with the material.
+
+-   Be open-minded.
+
+-   It's always okay to be wrong!
