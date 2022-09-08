@@ -31,15 +31,19 @@ editor: visual
 :::
 
 ------------------------------------------------------------------------
+
 <center>
+
 ::: columns
 ::: {.column width="50%"}
 ![](assets/IMG_8394.png){fig-align="center"}
 :::
+
 ::: {.column width="30%"}
 ← Ben and Ringo
 :::
 :::
+
 </center>
 
 ## Outline
