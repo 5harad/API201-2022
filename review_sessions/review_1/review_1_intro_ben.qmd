@@ -36,15 +36,19 @@ editor: visual
 
 ::: columns
 ::: {.column width="50%"}
-![](assets/IMG_8394.png){fig-align="center"}
+![](assets/IMG_5606.JPEG){width="90%"}
 :::
 
-::: {.column width="30%"}
-← Ben and Ringo
+::: {.column width="50%"}
+![](assets/IMG_5197.jpeg)
+
+[Ringo]{style="font-size:56pt"}
 :::
 :::
 
 </center>
+
+##  {background-video="assets/IMG_5654.MOV" background-video-loop="true" background-video-muted="true" background-size="contain"}
 
 ## Outline
 
@@ -58,7 +62,7 @@ editor: visual
 
     -   Develop R skills.
 
--   40 min concepts and practice probs & 35 min on R.
+-   35 min concepts & 40 min on R.
 
 ## Expectations (for me)
 
@@ -74,16 +78,28 @@ editor: visual
 
 ## Expectations (for me)
 
+-   Review sessions are **homework-focused**. I will cover material that you can directly apply to completing the homework assignment.
+
 -   I don't grade the homework and can't comment on why you got a particular grade, but would be happy to help you work through any confusion with the material.
 
 -   I will post review session materials in advance, but I encourage you to follow along with the lecture and write your own code for R exercises.
+
+-   Guillermo and I work on review sessions materials together, so go to whichever session works better with your schedule.
 
 ## Expectations (for you)
 
 -   Show up on time.
 
+    -   Especially important because we try to make the materials interactive.
+
 -   Engage with the material.
+
+    -   You'll get the most out of review session if you and your peers are participating.
 
 -   Be open-minded.
 
--   It's always okay to be wrong!
+    -   Even if you're a stats-skeptic or stats-expert, we have a lot to learn from others.
+
+-   Ask questions.
+
+    -   It's always okay to be wrong! And this is the absolute best time to correct any misconceptions.
